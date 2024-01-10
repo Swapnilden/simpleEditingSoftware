@@ -15,7 +15,8 @@ Editing Software is a simple web-based application that allows users to customiz
 
   1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/editing-software.git
+   git clone https://github.com/Swapnilden/simpleEditingSoftware.git
+
    Navigate to the repository directory and open the index.html file in a web browser.
 
   2. Select the desired font and font size from the dropdown menus, input text in the text field, and observe the preview section to see the text with the selected styling options.
